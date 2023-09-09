@@ -7,9 +7,9 @@ function Terms() {
 
   const showOpen1 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -37,9 +37,9 @@ function Terms() {
 
   const showOpen2 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -67,9 +67,9 @@ function Terms() {
 
   const showOpen3 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -97,9 +97,9 @@ function Terms() {
 
   const showOpen4 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -127,9 +127,9 @@ function Terms() {
 
   const showOpen5 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -157,9 +157,9 @@ function Terms() {
 
   const showOpen6 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -187,9 +187,9 @@ function Terms() {
 
   const showOpen7 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -217,9 +217,9 @@ function Terms() {
 
   const showOpen8 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -248,9 +248,9 @@ function Terms() {
 
   const showOpen9 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -279,9 +279,9 @@ function Terms() {
 
   const showOpen10 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -310,9 +310,9 @@ function Terms() {
 
   const showOpen11 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -341,9 +341,9 @@ function Terms() {
 
   const showOpen12 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -372,9 +372,9 @@ function Terms() {
 
   const showOpen = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -403,9 +403,9 @@ function Terms() {
 
   const showOpen13 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -433,9 +433,9 @@ function Terms() {
 
   const showOpen14 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -463,9 +463,9 @@ function Terms() {
 
   const showOpen15 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -494,9 +494,9 @@ function Terms() {
 
   const showOpen16 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen17(false)
     setOpen18(false)
     setOpen19(false)
@@ -524,9 +524,9 @@ function Terms() {
 
   const showOpen17 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen20(false)
     setOpen19(false)
     setOpen18(false)
@@ -555,9 +555,9 @@ function Terms() {
 
   const showOpen18 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen18(false)
     setOpen19(false)
     setOpen20(false)
@@ -587,9 +587,9 @@ function Terms() {
 
   const showOpen19 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen20(false)
     setOpen19(true)
     setOpen18(false)
@@ -616,9 +616,9 @@ function Terms() {
 
   const showOpen20 = () => {
     setOpen24(false)
-  setOpen23(false)
-  setOpen22(false)
-  setOpen21(false)
+    setOpen23(false)
+    setOpen22(false)
+    setOpen21(false)
     setOpen20(true)
     setOpen19(false)
     setOpen18(false)
@@ -1125,7 +1125,7 @@ function Terms() {
                 <div className='md:w-[90%] sm:w-[100%] flex flex-col items-center justify-center text-center ' >
                   <p className='font-medium xl:text-[1.1rem] lg:text-[1.1rem] sm:text-[1rem] leading-[200%] text-[#0C103A99] '>In the case of any complaints or notice of dispute or any other notification, please contact us at:</p>
                   <p className='font-bold xl:text-[1.1rem] lg:text-[1.1rem] sm:text-[1rem] leading-[200%] mt-[15px] text-[#0C103A99]'>BLUELOOP INC. Email: company@blueloop.app</p>
-                 </div>
+                </div>
               </div>
             }
 
