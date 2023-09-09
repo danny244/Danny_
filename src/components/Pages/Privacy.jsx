@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './privacy.css'
+import './Privacy.css'
 
 function Privacy() {
 
