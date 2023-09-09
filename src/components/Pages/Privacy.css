@@ -1,0 +1,16 @@
+h5 {
+  cursor: pointer;
+  /* -webkit-text-fill-color: transparent; */
+  /* -webkit-text-stroke-width: 0.5px; */
+  color: rgb(209, 209, 209);
+}
+
+div div h5:hover {
+  color: #855AAF;
+  transition: 400ms;
+}
+
+.privacy {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+}
